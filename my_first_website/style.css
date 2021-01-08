@@ -1,5 +1,14 @@
 p{
     font-family: Helvetica, Arial, sans-serif;
-    font-size: large;
+    font-size: 2em;
     color: red;
+}
+#welcome{
+    font-size: 20px;
+    font-weight: bold;
+}
+#mybox{
+    background: green;
+    width: 100px;
+    height: 100px;
 }
